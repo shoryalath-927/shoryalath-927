@@ -137,47 +137,5 @@ Always cooking something new. Check the pinned repos below for the latest work.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoryalath-927&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoryalath-927&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoryalath-927&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="170" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoryalath-927&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoryalath-927&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/shorya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shoryalath927@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/shoryalath-927"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"The best way to predict the future is to build it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&reversal=true" />
-
-</div>
