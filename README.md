@@ -49,7 +49,7 @@ learning: Production-grade AI systems
 philosophy: "Ship, learn, iterate."
 ```
 
-- 🔭 Currently building **LeadToDeal Converter** — automating the messy middle of sales pipelines
+- 🔭 Currently building **LeadToDeal Converter** - automating the messy middle of sales pipelines
 - 🌱 Going deep on **LLMs, RAG architectures, and applied ML**
 - 💡 I like projects that **solve real problems**, not just demos
 - 📫 Reach me: **shoryalath927@gmail.com**
@@ -71,7 +71,7 @@ An AI-powered voice assistant that turns spoken responses into structured form d
     <td width="50%" valign="top">
 
 ### 💼 LeadToDeal Converter `🚧 In Progress`
-An intelligent pipeline that scores, qualifies, and converts raw leads into actionable sales opportunities — automating the work between "interested" and "closed."
+An intelligent pipeline that scores, qualifies, and converts raw leads into actionable sales opportunities - automating the work between "interested" and "closed."
 
 `Python` `ML` `Automation`
 
@@ -81,7 +81,7 @@ An intelligent pipeline that scores, qualifies, and converts raw leads into acti
     <td width="50%" valign="top">
 
 ### 🤖 CSE-RAG-Chatbot
-A personalized RAG-based chatbot for Computer Science Engineering students — answers course questions using your own study material as the knowledge base.
+A personalized RAG-based chatbot for Computer Science Engineering students - answers course questions using your own study material as the knowledge base.
 
 `RAG` `LangChain` `Vector DB` `LLM`
 
